@@ -5,6 +5,7 @@
 	"license": "MIT",
 	"repository": "motta92/npm-package-test",
 	"main": "index.js",
+	"scss": "scss/index.scss",
 	"keywords": [
 		"tiny",
 		"npm",
